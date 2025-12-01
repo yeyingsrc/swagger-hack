@@ -21,6 +21,3 @@
 
 最终结果：
 ![](https://github.com/jayus0821/swagger-hack/blob/main/images/image-20210201201527999.png)
-
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source")
